@@ -29,6 +29,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _BaseColor_9d3f1b72b239444bba41fde420cbb52b_ColorGradient_1953156726:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseColor_9d3f1b72b239444bba41fde420cbb52b_NoiseTEx_1786953702:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,6 +50,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorGradient:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -233,8 +241,8 @@ Material:
     - _Normals_2_Speed: {r: 1, g: -1, b: 0, a: 0}
     - _Side_Ripple_Color: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _watercol1: {r: 0.10980364, g: 0.33333308, b: 0.5411765, a: 0.68235296}
-    - _watercol2: {r: 0.35177103, g: 0.7882758, b: 0.8773585, a: 0.70980394}
+    - _watercol1: {r: 0.10980361, g: 0.33333305, b: 0.5411765, a: 0.5686275}
+    - _watercol2: {r: 0.351771, g: 0.7882758, b: 0.8773585, a: 0.5176471}
   m_BuildTextureStacks: []
 --- !u!114 &5951178903761141853
 MonoBehaviour:

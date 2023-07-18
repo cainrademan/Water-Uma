@@ -35,6 +35,9 @@
         },
         {
             "m_Id": "f11988718ebb4dd4a2d1ea4a6137958e"
+        },
+        {
+            "m_Id": "cb92a91416184a559083520506225105"
         }
     ],
     "m_Keywords": [],
@@ -875,10 +878,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1004.0000610351563,
-            "y": -164.00001525878907,
-            "width": 208.00006103515626,
-            "height": 104.0
+            "x": 759.0,
+            "y": -417.0,
+            "width": 123.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1398,9 +1401,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1149.0001220703125,
-            "y": 8.00000286102295,
-            "width": 207.9998779296875,
+            "x": 1179.9998779296875,
+            "y": -135.99998474121095,
+            "width": 208.0,
             "height": 302.00006103515627
         }
     },
@@ -1417,7 +1420,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_PreviewMode": 0,
     "m_CustomColors": {
         "m_SerializableColors": []
@@ -2261,6 +2264,9 @@
         },
         {
             "m_Id": "f11988718ebb4dd4a2d1ea4a6137958e"
+        },
+        {
+            "m_Id": "cb92a91416184a559083520506225105"
         }
     ]
 }
@@ -3083,8 +3089,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1400.0,
-            "y": 68.0,
+            "x": 1440.0,
+            "y": 27.0,
             "width": 130.0,
             "height": 34.0
         }
@@ -3407,6 +3413,35 @@
 }
 
 {
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
+    "m_ObjectId": "cb92a91416184a559083520506225105",
+    "m_Guid": {
+        "m_GuidSerialized": "52a07cc5-8092-4854-8ce9-0accaddb94a2"
+    },
+    "m_Name": "Color Gradient",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Color Gradient",
+    "m_DefaultReferenceName": "_Color_Gradient",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": {
+        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_Guid": ""
+    },
+    "isMainTexture": false,
+    "useTilingAndOffset": false,
+    "m_Modifiable": true,
+    "m_DefaultType": 0
+}
+
+{
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
     "m_ObjectId": "cdf4b8efb85f4d3099b7efc9e7f64be6",
@@ -3517,8 +3552,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1520.0001220703125,
-            "y": 98.99999237060547,
+            "x": 1564.0,
+            "y": 87.0,
             "width": 208.0,
             "height": 326.0
         }
