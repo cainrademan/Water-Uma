@@ -21,12 +21,20 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseColor_9d3f1b72b239444bba41fde420cbb52b_BaseColorTex_3431227929:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseColor_9d3f1b72b239444bba41fde420cbb52b_BaseTexNoiseTex_1786953702:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColor_9d3f1b72b239444bba41fde420cbb52b_NoiseTEx_1786953702:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseColor_Tex:
+        m_Texture: {fileID: 2800000, guid: 2de5740bd74b5d7469e35f9fc2ae91b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -147,7 +155,7 @@ Material:
     - _BaseTex_Distortion: 0.8
     - _BaseTex_Noise_Tex_Scroll_Speed: 0.3
     - _BaseTex_Noise_Tex_Tiling: 0.01
-    - _BaseTex_Overlay: 1.09
+    - _BaseTex_Overlay: 0.46
     - _BaseTex_Speed: 0.1
     - _BaseTex_Strength: 0.52
     - _BaseTex_Tiling: 0.4
@@ -223,8 +231,8 @@ Material:
     - _Normals_2_Speed: {r: 1, g: -1, b: 0, a: 0}
     - _Side_Ripple_Color: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _watercol1: {r: 0.10980367, g: 0.3333331, b: 0.5411765, a: 0.41960785}
-    - _watercol2: {r: 0.35177106, g: 0.7882758, b: 0.8773585, a: 0.4117647}
+    - _watercol1: {r: 0.10980361, g: 0.33333305, b: 0.5411765, a: 0.5372549}
+    - _watercol2: {r: 0.351771, g: 0.7882758, b: 0.8773585, a: 0.5372549}
   m_BuildTextureStacks: []
 --- !u!114 &5951178903761141853
 MonoBehaviour:
