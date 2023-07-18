@@ -100,7 +100,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _BaseTex_Overlay: 0.3
+    - _BaseTex_Overlay: 0.16
     - _BaseTex_Speed: 0.1
     - _BaseTex_Strength: 0.52
     - _BaseTex_Tiling: 0.2
@@ -113,7 +113,7 @@ Material:
     - _Depth_Fade_Distance: 0.89
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distortion_Amount: 0.02
+    - _Distortion_Amount: 0.01
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _Foam_Blend: 0.42
@@ -126,7 +126,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Normals_1_Scale: 0.5
+    - _Normals_1_Scale: 0.2
     - _Normals_1_Speed: 0.1
     - _Normals_1_Strength: 1
     - _Normals_2_Scale: 0.1
@@ -139,12 +139,12 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Refraction_Scale: 0.4
-    - _Refraction_Speed: 0.3
+    - _Refraction_Speed: 0.2
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
-    - _SpecStrength: 1.4
+    - _SpecStrength: 4.3
     - _SpecularHighlights: 1
-    - _Specular_Smoothness: 26.09
+    - _Specular_Smoothness: 258.83
     - _Specular_Step: 0.01
     - _SrcBlend: 1
     - _Surface: 0
@@ -168,8 +168,8 @@ Material:
     - _Normals_2_Direction: {r: -1, g: -1, b: 1, a: 0}
     - _Normals_2_Speed: {r: 1, g: -1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _watercol1: {r: 0.10980376, g: 0.3333332, b: 0.5411765, a: 0.6392157}
-    - _watercol2: {r: 0.067283735, g: 0.4514655, b: 0.5283019, a: 0.74509805}
+    - _watercol1: {r: 0.1098037, g: 0.33333313, b: 0.5411765, a: 0.6039216}
+    - _watercol2: {r: 0.3517711, g: 0.7882758, b: 0.8773585, a: 0.64705884}
   m_BuildTextureStacks: []
 --- !u!114 &5951178903761141853
 MonoBehaviour:
